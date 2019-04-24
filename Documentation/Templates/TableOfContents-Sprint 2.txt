@@ -1,0 +1,58 @@
+Table Of Content-Sprint 2
+
+Progress Report-Heading 1
+	Tasks Completed-Heading 2
+	Tasks Planned-Heading 2
+	Difficulties-Heading 2
+Task Breakdown-Heading 1
+	Task 1-Heading 2
+		Task 1.6-Heading 3
+			Description-subtitle
+			Implementation-subtitle
+		Task 1.7-Heading 3
+			Description-subtitle
+			Implementation-subtitle
+	Task 3-Heading 2
+		Task 3.1-Heading 3
+			Description-subtitle
+			Implementation-subtitle
+		Task 3.2-Heading 3
+			Description-subtitle
+			Implementation-subtitle
+		Task 3.3-Heading 3
+			Description-subtitle
+			Implementation-subtitle
+	Task 10-Heading 2
+		Task 10.1-Heading 3
+			Description-subtitle
+			Implementation-subtitle
+		Task 10.2-Heading 3
+			Description-subtitle
+			Implementation-subtitle
+	Task 12-Heading 2
+		Task 12.1-Heading 3
+			Description-subtitle
+			Implementation-subtitle
+		Task 12.2-Heading 3
+			Description-subtitle
+			Implementation-subtitle
+Development Methodology-Heading 1
+	Minutes-Heading 2
+	Burndown Chart-Heading 2
+		Description-subtitle
+		Burndown Chart-subtitle
+	Sprint Retrospective-Heading 2
+		Description-subtitle
+		Sprint Retrospective-subtitle
+	Task Summary-Heading 2
+		Description-subtitle
+	Task Management-Heading 2
+	Task Selection-Heading 2
+	
+	
+//Heading 1-Calibry Light(Heading),Bold,20
+//Heading 2-Calibry Light(Heading),Bold,16
+//Heading 3-Calibry Light(Heading),Bold,14
+//subtitle-Calibry Light(Heading),Bold,14
+//References-Calibry Body,12,normal
+//Body-Calibry Body,14,normal
